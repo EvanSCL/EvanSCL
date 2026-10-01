@@ -1,3 +1,14 @@
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/EvanSCL/count.svg"/>
+  <br/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=EvanSCL&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanSCL&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EvanSCL&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
+
 # 💫 About Me:
 Soy estudiante de Ingeniería de Sistemas con interés en el desarrollo de software, el diseño de soluciones tecnológicas y el aprendizaje continuo. Me apasiona transformar ideas en aplicaciones funcionales mediante el uso de buenas prácticas de programación, estructuras de datos y metodologías de desarrollo. Tengo experiencia académica en desarrollo web y móvil, programación orientada a objetos, bases de datos y análisis de sistemas. En este GitHub comparto proyectos que reflejan mi crecimiento como desarrollador, mi capacidad para resolver problemas y mi compromiso con la creación de software escalable, eficiente y centrado en el usuario
 
